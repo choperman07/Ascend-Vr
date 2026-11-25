@@ -1,0 +1,32 @@
+{
+    "name": "ASCEND.Runtime",
+    "rootNamespace": "Ascend",
+    "references": [
+        "Unity.XR.Interaction.Toolkit",
+        "Unity.XR.CoreUtils",
+        "Unity.InputSystem",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI",
+        "Unity.Netcode.Runtime",
+        "Unity.Collections",
+        "Unity.Services.Core",
+        "Unity.Services.Authentication",
+        "Unity.Services.Multiplayer",
+        "Unity.Services.Vivox",
+        "Unity.RenderPipelines.Universal.Runtime",
+        "Unity.RenderPipelines.Core.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        { "name": "com.unity.services.vivox", "expression": "16.0.0", "define": "ASCEND_VIVOX" },
+        { "name": "com.unity.netcode.gameobjects", "expression": "2.0.0", "define": "ASCEND_NGO" },
+        { "name": "com.unity.services.multiplayer", "expression": "1.0.0", "define": "ASCEND_MPS" }
+    ],
+    "noEngineReferences": false
+}

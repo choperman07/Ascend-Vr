@@ -1,0 +1,9 @@
+# EL SÓTANO · fotos del equipo
+# Pon las fotos (jpg o png) en esta misma carpeta y añade una línea por persona:
+#   archivo | Nombre | Rol
+# "archivo" es el nombre de la foto sin la extensión. Cambia aquí los nombres y los roles:
+dev1 | EL PURPURINA | Equipo ASCEND
+dev2 | EL PALOMO | Equipo ASCEND
+dev3 | EL BELLO DURMIENTE | Equipo ASCEND
+dev4 | STEFANINI | Equipo ASCEND
+dev5 | EL PILOTO | Equipo ASCEND

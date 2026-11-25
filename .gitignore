@@ -1,0 +1,82 @@
+# ---------- Unity ----------
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+.vs/
+.vscode/
+.idea/
+.gradle/
+ExportedObj/
+.consulo/
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+crashlytics-build.properties
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+.DS_Store
+Thumbs.db
+
+# ---------- Third-party packs (Unity Asset Store EULA: not redistributable) ----------
+/Assets/BarStool/
+/Assets/BarStool.meta
+/Assets/Infima Games/
+/Assets/Infima Games.meta
+/Assets/ithappy/
+/Assets/ithappy.meta
+/Assets/Kevin Iglesias/
+/Assets/Kevin Iglesias.meta
+/Assets/Low Poly Guns/
+/Assets/Low Poly Guns.meta
+/Assets/Magician_RIO/
+/Assets/Magician_RIO.meta
+/Assets/MilkyWay/
+/Assets/MilkyWay.meta
+/Assets/OToon- URP Toon Shading/
+/Assets/OToon- URP Toon Shading.meta
+/Assets/Super Furniture Free Pack/
+/Assets/Super Furniture Free Pack.meta
+/Assets/Supercyan Character Pack Free Sample/
+/Assets/Supercyan Character Pack Free Sample.meta
+/Assets/ZRNAssets/
+/Assets/ZRNAssets.meta
+
+# Mixamo characters and animation (Mixamo licence: not redistributable as files)
+/Assets/ASCEND/Imported/Characters/Android_Xbot.fbx*
+/Assets/ASCEND/Imported/Characters/Guest_Michelle.fbx*
+/Assets/ASCEND/Imported/Characters/Security_Vanguard.fbx*
+/Assets/ASCEND/Imported/Animations/Anim_Samba.fbx*
+
+# Textures built from the Casino FREE pack
+/Assets/ASCEND/Resources/ASCEND/Textures/cards.png*
+/Assets/ASCEND/Resources/ASCEND/Textures/slot_symbols.png*
+
+# Team photos (El Sotano) - kept private
+/Assets/ASCEND/Resources/ASCEND/Equipo/*.jpg
+/Assets/ASCEND/Resources/ASCEND/Equipo/*.jpg.meta
+/Assets/ASCEND/Resources/ASCEND/Equipo/*.png
+/Assets/ASCEND/Resources/ASCEND/Equipo/*.png.meta
+
+# Old Spanish readme (superseded by README.md)
+/Assets/ASCEND/README_ES.md*
