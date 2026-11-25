@@ -53,8 +53,8 @@ ASCEND was made by four UCJC students. Each of us owned one part of the project 
 | | Who | What they did |
 |---|---|---|
 | 🎲 | **Roberto Alvar Gil** | **Development lead.** Built the game in Unity: the code, the procedural world builder, the 29 games, the builds for Quest, Windows, Mac and the web, the trailer recorded inside the game, the making-of video and the interactive website. Put together the final presentation. |
-| 📖 | **Stephan Esquiador** | **Concept and story.** The idea of a casino you climb, the mafia-debt narrative, who the game is for and how we pitched it. Opened and closed the presentation. |
-| 🏛️ | **Mauricio "el Lémur"** | **Art direction and world.** The visual identity (palette, type, the contrast between the shining tower and the dusty campsite), the design of the building and its floors, the team's hidden HQ and the Ronin collection. |
+| 📖 | **Stephan Gotze** | **Concept and story.** The idea of a casino you climb, the mafia-debt narrative, who the game is for and how we pitched it. Opened and closed the presentation. |
+| 🏛️ | **Paul Mauricio ** | **Art direction and world.** The visual identity (palette, type, the contrast between the shining tower and the dusty campsite), the design of the building and its floors, the team's hidden HQ and the Ronin collection. |
 | 🕹️ | **Alejandro Caballero** | **Gameplay.** The core loop (home → mafia car → casino → quota), progression through the floors, rewards and black-market modifiers, and the live demo. |
 
 The code was written with the help of an AI assistant (Claude, by Anthropic), directed, reviewed and tested floor by floor by the team inside Unity.
